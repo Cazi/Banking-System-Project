@@ -9,7 +9,11 @@ public class Customer {
         this.account = account;
     }
 
-    
+
+    public Boolean hasAccount() {
+        return true;
+    }
+
     /*
     Note: Need methods that retrieve the name and account info from the customer
     */

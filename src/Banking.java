@@ -12,8 +12,9 @@ public class Banking {
     of privacy.
     */
 
-    
     public static void main (String[] args) {
+        //We could replace the Account field with an account interface if we
+        //wanted different account functionalities. 
     
     }
 }
